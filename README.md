@@ -7,9 +7,13 @@
 
 Личные чаты, голосовые комнаты, звонки и демонстрация экрана — на своём сервере DamageLife.
 
-[🖥️ Windows](https://github.com/VegasGhoul/DLMessenger/releases/tag/v2.3.0) · [📱 Android](https://github.com/VegasGhoul/DLMessenger/releases/tag/mobile-2.3.0) · [Помощь](https://github.com/VegasGhoul/DLMessenger/issues/new)
+[🖥️ Windows](https://github.com/VegasGhoul/DLMessenger/releases/tag/v2.3.1) · [📱 Android](https://github.com/VegasGhoul/DLMessenger/releases/tag/mobile-2.3.1) · [Помощь](https://github.com/VegasGhoul/DLMessenger/issues/new)
 
 </div>
+
+## 🛠️ Исправление 2.3.1
+
+Устранена блокировка кнопок при просмотре демонстрации в голосовой комнате. Работают возврат к каналу, микрофон, полный мут и остановка показа. Исправление доступно для Windows и Android.
 
 ## 🎄 Новогодний выпуск 2.3.0
 
@@ -28,13 +32,13 @@
 
 | Платформа | Версия | Загрузка |
 | --- | --- | --- |
-| **Windows 10/11 x64** | **2.3.0** | [Скачать установщик](https://github.com/VegasGhoul/DLMessenger/releases/download/v2.3.0/DLMessenger-2.3.0-Setup-x64.exe) |
-| **Android 7.0 и новее** | **2.3.0** | [Скачать APK](https://github.com/VegasGhoul/DLMessenger/releases/download/mobile-2.3.0/DLMessenger-2.3.0-Android.apk) |
+| **Windows 10/11 x64** | **2.3.1** | [Скачать установщик](https://github.com/VegasGhoul/DLMessenger/releases/download/v2.3.1/DLMessenger-2.3.1-Setup-x64.exe) |
+| **Android 7.0 и новее** | **2.3.1** | [Скачать APK](https://github.com/VegasGhoul/DLMessenger/releases/download/mobile-2.3.1/DLMessenger-2.3.1-Android.apk) |
 | **iPhone · iOS 17 и новее** | 2.0.0, неподписанная сборка | [Открыть выпуск iPhone](https://github.com/VegasGhoul/DLMessenger/releases/tag/mobile-2.0.0) |
 
 **Обновление Windows и Android:** установите новый пакет поверх прежней версии, сохранив данные приложения. Проверка обновлений доступна в настройках DLMessenger. Удалять приложение перед обновлением не требуется.
 
-**iPhone:** существующий выпуск 2.0.0 содержит неподписанный IPA и требует подписи перед установкой. Исправленный выпуск 2.3.0 сейчас опубликован для Windows и Android.
+**iPhone:** существующий выпуск 2.0.0 содержит неподписанный IPA и требует подписи перед установкой. Исправленный выпуск 2.3.1 сейчас опубликован для Windows и Android.
 
 В новых выпусках приложен файл `SHA256SUMS.txt` с контрольными суммами. [Все выпуски](https://github.com/VegasGhoul/DLMessenger/releases).
 
@@ -59,6 +63,7 @@
 
 ## О проверках и обратной связи
 
-Новые функции 2.3.0 проверены 215 автоматическими тестами и отдельными проверками интерфейса ПК и телефона. Телефон сохраняет обычное оформление. Фоновая голосовая связь ранее физически проверена на Honor 10X Lite с Android 10 в версии 2.2.5, включая выключение экрана более 71 секунды. Проверка одного устройства не охватывает все модели и сети.
+Исправление 2.3.1 проверено на двух изолированных клиентах LiveKit: управление мышью и касаниями, возврат из просмотра и повторное открытие в голосовой комнате и личном звонке. Общие проверки выполняются 215 автоматическими тестами. Телефон сохраняет обычное оформление. Фоновая голосовая связь ранее физически проверена на Honor 10X Lite с Android 10 в версии 2.2.5, включая выключение экрана более 71 секунды. Проверка одного устройства не охватывает все модели и сети.
 
 Если что-то работает неправильно, напишите в поддержку приложения или [создайте обращение на GitHub](https://github.com/VegasGhoul/DLMessenger/issues/new). Укажите версию, платформу и шаги воспроизведения — это поможет быстрее найти причину.
+
