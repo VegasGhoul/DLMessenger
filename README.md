@@ -7,7 +7,7 @@
 
 Личные чаты, голосовые комнаты, звонки и демонстрация экрана — на своём сервере DamageLife.
 
-[🖥️ Windows](https://github.com/VegasGhoul/DLMessenger/releases/tag/v2.6.0) · [📱 Android](https://github.com/VegasGhoul/DLMessenger/releases/tag/mobile-2.6.0) · [Помощь](https://github.com/VegasGhoul/DLMessenger/issues/new)
+**[⬇️ Скачать для Windows](https://github.com/VegasGhoul/DLMessenger/releases/download/windows-downloads/DLMessenger-Setup.exe)** · [📱 Android](https://github.com/VegasGhoul/DLMessenger/releases/tag/mobile-2.6.0) · [Помощь](https://github.com/VegasGhoul/DLMessenger/issues/new)
 
 </div>
 
@@ -53,11 +53,13 @@ Spotify используется для поиска. Звук поступае�
 
 | Платформа | Версия | Загрузка |
 | --- | --- | --- |
-| **Windows 10/11 x64** | **2.6.0** | [Скачать установщик](https://github.com/VegasGhoul/DLMessenger/releases/download/v2.6.0/DLMessenger-2.6.0-Setup-x64.exe) |
+| **Windows 10/11 x64** | **Последняя доступная** | [Универсальный установщик](https://github.com/VegasGhoul/DLMessenger/releases/download/windows-downloads/DLMessenger-Setup.exe) |
 | **Android 7.0 и новее** | **2.6.0** | [Скачать APK](https://github.com/VegasGhoul/DLMessenger/releases/download/mobile-2.6.0/DLMessenger-2.6.0-Android.apk) |
 | **iPhone · iOS 17 и новее** | 2.0.0, неподписанная сборка | [Открыть выпуск iPhone](https://github.com/VegasGhoul/DLMessenger/releases/tag/mobile-2.0.0) |
 
-**Обновление Windows и Android:** установите новый пакет поверх прежней версии, сохранив данные приложения. Проверка обновлений доступна в настройках DLMessenger. Удалять приложение перед обновлением не требуется.
+**Windows.** Запустите `DLMessenger-Setup.exe`. Он скачает и проверит актуальную сборку, затем откроет мастер установки. Этим же файлом можно обновить уже установленный DLMessenger с сохранением данных.
+
+**Android.** Для ручного обновления установите APK поверх прежней версии.
 
 **iPhone:** существующий выпуск 2.0.0 содержит неподписанный IPA и требует подписи перед установкой. Исправленный выпуск 2.6.0 сейчас опубликован для Windows и Android.
 
