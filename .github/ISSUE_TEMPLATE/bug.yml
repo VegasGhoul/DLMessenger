@@ -1,0 +1,33 @@
+name: Сообщить об ошибке
+description: Опишите, что сломалось и как это повторить
+title: "[Ошибка] "
+body:
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Платформа
+      options:
+        - Windows
+        - Android
+        - Веб-версия
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Версия DLMessenger и устройства
+      placeholder: "Например, DLMessenger 3.0.0, Windows 11"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Что произошло
+      description: Опишите шаги, ожидаемый результат и то, что вы увидели.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Скриншот или запись экрана
+      description: По желанию. Скройте личные переписки, логины и коды приглашений перед загрузкой.
