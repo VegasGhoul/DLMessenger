@@ -21,11 +21,11 @@
 
 | Платформа | Как открыть DLMessenger |
 | :-- | :-- |
-| **Windows 10/11 · x64** | [Универсальный установщик](https://github.com/VegasGhoul/DLMessenger/releases/download/windows-downloads/DLMessenger-Setup.exe) выбирает актуальный выпуск. [Что нового в 3.0.2](https://github.com/VegasGhoul/DLMessenger/releases/tag/v3.0.2). |
-| **Android 7.0 и новее** | [Скачать APK 3.0.2](https://github.com/VegasGhoul/DLMessenger/releases/download/mobile-3.0.2/DLMessenger-3.0.2-Android.apk) или [открыть мобильный выпуск](https://github.com/VegasGhoul/DLMessenger/releases/tag/mobile-3.0.2). |
+| **Windows 10/11 · x64** | [Универсальный установщик](https://github.com/VegasGhoul/DLMessenger/releases/download/windows-downloads/DLMessenger-Setup.exe) выбирает актуальный выпуск. [Что нового в 3.0.3](https://github.com/VegasGhoul/DLMessenger/releases/tag/v3.0.3). |
+| **Android 7.0 и новее** | [Скачать APK 3.0.3](https://github.com/VegasGhoul/DLMessenger/releases/download/mobile-3.0.3/DLMessenger-3.0.3-Android.apk) или [открыть мобильный выпуск](https://github.com/VegasGhoul/DLMessenger/releases/tag/mobile-3.0.3). |
 | **iPhone, Android и компьютер** | [Веб-версия](https://damagelife.ru/dlmessenger/app/) работает в браузере. На всех устройствах используется один аккаунт. |
 
-Установленный клиент Windows обновляется из приложения. На Android установите новый APK поверх прежней версии. В каждом выпуске 3.0.2 указаны SHA-256 файлов.
+Установленный клиент Windows обновляется из приложения. На Android установите новый APK поверх прежней версии. В каждом выпуске 3.0.3 указаны SHA-256 файлов.
 
 ## В обновлении 3.0
 
