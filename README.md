@@ -21,11 +21,11 @@
 
 | Платформа | Как открыть DLMessenger |
 | :-- | :-- |
-| **Windows 10/11 · x64** | [Универсальный установщик](https://github.com/VegasGhoul/DLMessenger/releases/download/windows-downloads/DLMessenger-Setup.exe) выбирает актуальный выпуск. [Что нового в 4.0.0](https://github.com/VegasGhoul/DLMessenger/releases/tag/v4.0.0). |
+| **Windows 10/11 · x64** | [Скачать DLMessenger на Rust/Tauri](https://github.com/VegasGhoul/DLMessenger/releases/latest). Установленный клиент Tauri обновляется из приложения. |
 | **Android 7.0 и новее** | [Скачать APK 4.0.0](https://github.com/VegasGhoul/DLMessenger/releases/download/mobile-4.0.0/DLMessenger-4.0.0-Android.apk) или [открыть мобильный выпуск](https://github.com/VegasGhoul/DLMessenger/releases/tag/mobile-4.0.0). |
 | **iPhone, Android и компьютер** | [Веб-версия](https://damagelife.ru/dlmessenger/app/) работает в браузере. На всех устройствах используется один аккаунт. |
 
-Установленный клиент Windows обновляется из приложения. На Android установите новый APK поверх прежней версии. В каждом выпуске 4.0.0 указаны SHA-256 файлов.
+На Android установите новый APK поверх прежней версии. Контрольные суммы доступны в выпусках.
 
 ## В обновлении 3.0
 
